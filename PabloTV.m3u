@@ -1,0 +1,98 @@
+#EXTM3U url="http://stream.nmbs.top/lists/Spain.m3u8"
+#EXTINF:-1,AMC ES
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/2ec526795385a0a.m3u8
+#EXTINF:-1,ANTENA 3
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/2f3d2f6df22be9e.m3u8
+#EXTINF:-1,DISNEY CHANNEL ES
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/cd28ff7cf017d49.m3u8
+#EXTINF:-1,DISNEY JR ES
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/32156a50420190e.m3u8
+#EXTINF:-1,BEIN SPORTS ES
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/86f504cd1c129ef.m3u8
+#EXTINF:-1,M LALIGA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/f70ef2328b7c99f.m3u8
+#EXTINF:-1,FOX ES
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/b08924f1dfe1157.m3u8
+#EXTINF:-1,HISTORY TV ES
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/a26cf2818285a6a.m3u8
+#EXTINF:-1,LA 1
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/9b3ba5fc9f9d579.m3u8
+#EXTINF:-1,LA 2
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/1714d12cfaf5a5a.m3u8
+#EXTINF:-1,LA SEXTA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/58cb64ae465e728.m3u8
+#EXTINF:-1,M MOTOTGP
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/21050fc3f07d4a1.m3u8
+#EXTINF:-1,M CINE M
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/987433c76a2c77b.m3u8
+#EXTINF:-1,M ACCION
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/95f367967ea29a0.m3u8
+#EXTINF:-1,M DCINE
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/c5f9abf5e19418f.m3u8
+#EXTINF:-1,M SERIES XTRA
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/1ed88d8f0324115.m3u8
+#EXTINF:-1,SYFY TV ES
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/62d372aca20d4dc.m3u8
+#EXTINF:-1,TNT ES
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/78784d8c04a3cbf.m3u8
+#EXTINF:-1,TOROS TV
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/e74939e985a8d11.m3u8
+#EXTINF:-1,M GOLF
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/50463d18b0fbed3.m3u8
+#EXTINF:-1,M ESTRENOS
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/4af8b52fa18016e.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/4a2b24d4eecfcd9.m3u8
+
+
+#EXTINF:-1 ,HISTORY TV ES
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/a26cf2818285a6a.m3u8
+
+Chino
+
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="Deportes",#VAMOS FULL HDch
+http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3819&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name=" #VAMOS BAR1 " tvg-logo="" group-title="SPANISH", #VAMOS BAR1ch 
+http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26268&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="" group-title="SDeportes",M. DEPORTES1HD (Baloncesto)
+http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=427&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="Deportes",CAZAyPESCA HD
+http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=402&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sundance TV FULL HD" tvg-logo="" group-title="SDeportes",Sundance TV FULL HD
+http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3856&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP FULL HD" tvg-logo="" group-title="Deportes,M.MOTOGP FULL HD
+http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3807&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="" group-title="Música",MTV ESPANA
+http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=447&t=live&f=ts
+
+#EXTINF:-1 group-title="General" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="Deportes",M. LaLiga HD
