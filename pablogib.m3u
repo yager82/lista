@@ -41,9 +41,6 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/987433c76a2c77b
 #EXTINF:-1,M FORMULA 1
 #EXTVLCOPT:http-user-agent=stream
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/c98b0314d5d22a1.m3u8
-#EXTINF:-1,M FOTBOL
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/c8680d0feba811d.m3u8
 #EXTINF:-1,M ACCION
 #EXTVLCOPT:http-user-agent=stream
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/95f367967ea29a0.m3u8
@@ -80,12 +77,8 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/a26cf2818285a6a
 
 Chino
 
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FULL HD" tvg-logo="" group-title="SPANISH",#VAMOS FULL HDch
-http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3819&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name=" #VAMOS BAR1 " tvg-logo="" group-title="SPANISH", #VAMOS BAR1ch 
-http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26268&t=live&f=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES1HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",M. DEPORTES1HD (Baloncesto)
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=427&t=live&f=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="SPANISH",CAZAyPESCA HD
