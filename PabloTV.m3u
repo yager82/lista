@@ -26,43 +26,77 @@ http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=6061
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=380&t=live&f=ts
 
 ----Canales de Deportes------------------------
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deportes",M. LaLiga HD
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deporte",M. LaLiga HD
 http://u3mKBqhTPWiRGsdHuU.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26046&t=live&f=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deportes",M. LaLiga
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deporte",M. LaLiga
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=435&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/laliga.png" group-title="Deporte",LALIGATV BAR HD
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=357&t=live&f=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="" group-title="Deportes",beIN SPORTS Espana
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26321&t=live&f=ts
 
-EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" group-title="Deportes",M.LCAMPEONES HD
+EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" group-title="Deporte",M.LCAMPEONES HD
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=445&t=live&f=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD+" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" group-title="Deportes",M.LCAMPEONES HD+
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD+" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" group-title="Deporte",M.LCAMPEONES HD+
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26315&t=live&f=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="M. GOLF FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Movistar-golf.jpg" group-title="Deportes",M. GOLF FULL HD
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3802&t=live&f=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="Deportes",#VAMOS FULL HDch
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FULL HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/vamos.jpg" group-title="Deporte",#VAMOS FULL HDch
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3819&t=live&f=ts
 
 #EXTINF:-1 tvg-id="" tvg-name=" #VAMOS BAR1 " tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/vamos.jpg" group-title="Deporte", #VAMOS BAR1ch 
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26268&t=live&f=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Deporte",DAZN 1 ESP
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=24923&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Deporte",DAZN 2 ESP
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=24922&t=live&f=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Movistar-deportes1.jpg" group-title="Deporte",M. DEPORTES1HD (Baloncesto)
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=427&t=live&f=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Movistar-deportes1.jpg" group-title="SDeportes",M. DEPORTES1HD (Baloncesto)
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Movistar-deportes1.jpg" group-title="Deporte",M. DEPORTES1HD (Baloncesto)
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=427&t=live&f=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Movistar-motogp.jpg" group-title="Deportes,M.MOTOGP FULL HD
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3807&t=live&f=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deportes",M. LaLiga
-,M LALIGA(Emergencia)
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Movistar-golf.jpg" group-title="Deporte",M. GOLF FULL HD
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3802&t=live&f=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deporte",M LALIGA(Emergencia)
 #EXTVLCOPT:http-user-agent=stream
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/f70ef2328b7c99f.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 (SOLO EVENTOS)" tvg-logo="" group-title="Deporte",M. LaLiga 2 (SOLO EVENTOS)
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=388&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4 (SOLO EVENTOS)" tvg-logo="" group-title="Deporte",M. LaLiga 4 (SOLO EVENTOS)
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=390&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 1  (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 1  (SOLO EVENTOS)
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=423&t=live&f=ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 1 HD (SOLO EVENTOS)" tvg-logo="" group-title="Deporte",M.LCAMPEON 1 HD (SOLO EVENTOS)
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=438&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 4 (SOLO EVENTOS)" tvg-logo="" group-title="Deporte",M.LCAMPEON 4 (SOLO EVENTOS)
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=441&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Deporte",DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26299&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Deporte",DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26300&t=live&f=ts
+
+
+
 
 
 ----Canales de Series--------------------------
@@ -74,10 +108,20 @@ http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/1ed88d8f0324115
 #EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="" group-title="Series" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",M. SERIES HD
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=362&t=live&f=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="M.Seriesmania HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-seriesmania.jpg" group-title="Series",M.Seriesmania HD
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=368&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/atreseries.jpg" group-title="Series",A3SERIES
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26343&t=live&f=ts
+
+
 
 ----Canales de Cine----------------------------
 #EXTINF:-1 tvg-id=""  tvg-name="MOVISTAR+ MARVEL 1" tvg-logo="https://www.movistar.es/estaticos/imagenes/fichas-producto/disney/MARVEL.png" group-title="Cine",MOVISTAR+ MARVEL 1
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26325&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://gartel.es/canales/paramountchannel[1].jpg" group-title="Cine",Paramount Channel
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=454&t=live&f=ts
 
 
 ----Canales  Infantiles------------------------
@@ -91,10 +135,27 @@ http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=6061
 #EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg" group-title="Infantiles",Disney+
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26214&t=live&f=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEONHD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg" group-title="Infantiles",NICKELODEONHD
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=452&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/baby_tv.jpg" group-title="Infantiles",BABY TV
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=383&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg" group-title="Infantiles",CANAL PANDA
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=401&t=live&f=ts
+
+
 ----Canales  Documentales----------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/caza-y-pesca.jpg" group-title="Documentales",CAZAyPESCA HD
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=402&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg" group-title="Documentales",NG WILD HD
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=371&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverymax.jpg" group-title="Documentales",DISCOVERY
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=408&t=live&f=ts
+
 
 ----Canales Musica-----
 #EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="https://taroca.es/images/canales/mtvespana.jpg" group-title="Música",MTV ESPANA
