@@ -22,6 +22,9 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg" group-title="General",#0 HD
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=378&t=live&f=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="General",24 HORAS
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=380&t=live&f=ts
+
 ----Canales de Deportes------------------------
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deportes",M. LaLiga HD
 http://u3mKBqhTPWiRGsdHuU.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26046&t=live&f=ts
@@ -56,20 +59,37 @@ http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=6061
 #EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Movistar-motogp.jpg" group-title="Deportes,M.MOTOGP FULL HD
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3807&t=live&f=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deportes",M. LaLiga
+,M LALIGA(Emergencia)
+#EXTVLCOPT:http-user-agent=stream
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/f70ef2328b7c99f.m3u8
 
 
 ----Canales de Series--------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="M. Series" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",M SERIES XTRA
+#EXTINF:-1 group-title="Series" tvg-id="" tvg-name="M. Series" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",M SERIES XTRA
 #EXTVLCOPT:http-user-agent=stream
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/1ed88d8f0324115.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="" group-title="Series" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",M. SERIES HD
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=362&t=live&f=ts
+
+
 ----Canales de Cine----------------------------
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 1" tvg-logo="https://www.movistar.es/estaticos/imagenes/fichas-producto/disney/MARVEL.png" group-title="Cine",MOVISTAR+ MARVEL 1
+#EXTINF:-1 tvg-id=""  tvg-name="MOVISTAR+ MARVEL 1" tvg-logo="https://www.movistar.es/estaticos/imagenes/fichas-producto/disney/MARVEL.png" group-title="Cine",MOVISTAR+ MARVEL 1
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26325&t=live&f=ts
 
 
 ----Canales  Infantiles------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 1" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg" group-title="Infantiles",movistar infantiles 1
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26205&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 2" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg" group-title="Infantiles",movistar infantiles 2
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26206&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg" group-title="Infantiles",Disney+
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26214&t=live&f=ts
 
 ----Canales  Documentales----------------------
 
@@ -79,65 +99,5 @@ http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=6061
 ----Canales Musica-----
 #EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="https://taroca.es/images/canales/mtvespana.jpg" group-title="Música",MTV ESPANA
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=447&t=live&f=ts
-
-
-
-#EXTINF:-1,AMC ES
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/2ec526795385a0a.m3u8
-#EXTINF:-1,DISNEY CHANNEL ES
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/cd28ff7cf017d49.m3u8
-#EXTINF:-1,DISNEY JR ES
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/32156a50420190e.m3u8
-#EXTINF:-1,BEIN SPORTS ES
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/86f504cd1c129ef.m3u8
-#EXTINF:-1,M LALIGA
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/f70ef2328b7c99f.m3u8
-#EXTINF:-1,FOX ES
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/b08924f1dfe1157.m3u8
-#EXTINF:-1,HISTORY TV ES
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/a26cf2818285a6a.m3u8
-#EXTINF:-1,M MOTOTGP
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/21050fc3f07d4a1.m3u8
-#EXTINF:-1,M CINE M
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/987433c76a2c77b.m3u8
-#EXTINF:-1,M ACCION
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/95f367967ea29a0.m3u8
-#EXTINF:-1,M DCINE
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/c5f9abf5e19418f.m3u8
-#EXTINF:-1,SYFY TV ES
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/62d372aca20d4dc.m3u8
-#EXTINF:-1,TNT ES
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/78784d8c04a3cbf.m3u8
-#EXTINF:-1,TOROS TV
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/e74939e985a8d11.m3u8
-#EXTINF:-1,M GOLF
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/50463d18b0fbed3.m3u8
-#EXTINF:-1,M ESTRENOS
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/4af8b52fa18016e.m3u8
-#EXTINF:-1,LIGA DE CAMPEONES
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/4a2b24d4eecfcd9.m3u8
-
-
-#EXTINF:-1 ,HISTORY TV ES
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/a26cf2818285a6a.m3u8
-
-Chino
 
 
