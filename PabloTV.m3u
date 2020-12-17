@@ -1,25 +1,25 @@
 #EXTM3U url="http://stream.nmbs.top/lists/Spain.m3u8"
 
-#EXTINF:-1 group-title="General",LA 1
+#EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg", LA 1
 #EXTVLCOPT:http-user-agent=stream
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/9b3ba5fc9f9d579.m3u8
 
-#EXTINF:-1 group-title="General",LA 2
+#EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",LA 2
 #EXTVLCOPT:http-user-agent=stream
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/1714d12cfaf5a5a.m3u8
 
-#EXTINF:-1 group-title="General",ANTENA 3
+#EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",ANTENA 3
 #EXTVLCOPT:http-user-agent=stream
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/2f3d2f6df22be9e.m3u8
 
-#EXTINF:-1 group-title="General",LA SEXTA
+#EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",LA SEXTA
 #EXTVLCOPT:http-user-agent=stream
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/58cb64ae465e728.m3u8
 
 #EXTINF:-1 group-title="General" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="General",#0 HD
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg" group-title="General",#0 HD
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=378&t=live&f=ts
 
 #EXTINF:-1,AMC ES
