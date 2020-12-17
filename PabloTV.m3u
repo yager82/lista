@@ -35,7 +35,13 @@ http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=6061
 #EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/laliga.png" group-title="Deporte",LALIGATV BAR HD
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=357&t=live&f=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="" group-title="Deportes",beIN SPORTS Espana
+EXTINF:-1 tvg-id="" tvg-name="Liga123" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deporte",LIGA 123
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/aae6dcc000e10a8.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Liga123-1" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deporte",Liga 123 1
+https://storage.googleapis.com/dailycl4/7/7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="" group-title="Deporte",beIN SPORTS Espana
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26321&t=live&f=ts
 
 EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/liga-campeones.png" group-title="Deporte",M.LCAMPEONES HD
@@ -80,7 +86,7 @@ http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=6061
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4 (SOLO EVENTOS)" tvg-logo="" group-title="Deporte",M. LaLiga 4 (SOLO EVENTOS)
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=390&t=live&f=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 1  (SOLO EVENTOS)" tvg-logo="" group-title="SPANISH",LALIGA TV BAR 1  (SOLO EVENTOS)
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR 1  (SOLO EVENTOS)" tvg-logo="" group-title="Deporte",LALIGA TV BAR 1  (SOLO EVENTOS)
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=423&t=live&f=ts
 
 
