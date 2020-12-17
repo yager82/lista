@@ -40,13 +40,6 @@ EXTINF:-1 tvg-id="" tvg-name="Liga123" tvg-logo="https://www.movistar.es/estatic
 #EXTVLCOPT:http-user-agent=stream
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/aae6dcc000e10a8.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Liga1231" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deporte",Liga 123 1
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/aae6dcc000e10a8.m3u8
-
-#EXTINF:-1 ,LIGA 123
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/aae6dcc000e10a8.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="" group-title="Deporte",beIN SPORTS Espana
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26321&t=live&f=ts
 
