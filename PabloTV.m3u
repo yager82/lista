@@ -21,6 +21,9 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 
 #EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg" group-title="General",#0 HD
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=378&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="#0 FULL HD" tvg-logo="" group-title="General", #0 
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=378&t=live&f=ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="General",24 HORAS
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=380&t=live&f=ts
@@ -61,6 +64,9 @@ http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=6061
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 2 ESP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Deporte",DAZN 2 ESP
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=24922&t=live&f=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES FULL HD" tvg-logo="" group-title="Deportes" , M Deportes
+http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=3800&t=live&f=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Movistar-deportes1.jpg" group-title="Deporte",M. DEPORTES1HD (Baloncesto)
 http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=427&t=live&f=ts
