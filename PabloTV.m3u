@@ -111,6 +111,17 @@ EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD final" tvg-logo="" group-title="Deporte"
 http://u3mLSOtb8il24wPQpo.c2e3n4te5r6.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=379&h=1591805b65fee65dac3d045c13b3f0356faaf2a1&n=1610655127
 
 
+EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deporte",M. LaLiga (OOOO)
+#EXTVLCOPT:http-user-agent=stream
+http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=26046&h=600b3f4657a67972337b89b7eec6811a9cca31a4&n=1615062980&i=82.159.89.240
+
+
+XTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="Deporte",M. LaLiga (OOO2)
+#EXTVLCOPT:http-user-agent=stream
+http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=3849&h=600b3f4657a67972337b89b7eec6811a9cca31a4&n=1615062980&i=82.159.89.240
+
+
+
 
 
 ----Canales de Series--------------------------
