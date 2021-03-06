@@ -13,8 +13,6 @@ http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="General",24 HORAS
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=380&t=live&f=ts
 
 ----Canales de Deportes------------------------
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="DEPORTE",M. LaLiga
@@ -39,64 +37,22 @@ http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=
 
 ----Canales de Series--------------------------
 
-#EXTINF:-1 group-title="Series" tvg-id="" tvg-name="M. Series" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series-extra.jpg",M SERIES XTRA
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/1ed88d8f0324115.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="" group-title="Series" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-series.jpg",M. SERIES HD
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=362&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="M.Seriesmania HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-seriesmania.jpg" group-title="Series",M.Seriesmania HD
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=368&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/atreseries.jpg" group-title="Series",A3SERIES
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26343&t=live&f=ts
 
 
 
 ----Canales de Cine----------------------------
-#EXTINF:-1 tvg-id=""  tvg-name="MOVISTAR+ MARVEL 1" tvg-logo="https://www.movistar.es/estaticos/imagenes/fichas-producto/disney/MARVEL.png" group-title="Cine",MOVISTAR+ MARVEL 1
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26325&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://gartel.es/canales/paramountchannel[1].jpg" group-title="Cine",Paramount Channel
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=454&t=live&f=ts
-
-
+EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE 1 HD" tvg-logo="" group-title="CINE",MOVISTAR CINE 1 HD
+http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=26088&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
 ----Canales  Infantiles------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 1" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg" group-title="Infantiles",movistar infantiles 1
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26205&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 2" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyxd.jpg" group-title="Infantiles",movistar infantiles 2
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26206&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/disneyjunior.jpg" group-title="Infantiles",Disney+
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26214&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEONHD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nickelodeon.jpg" group-title="Infantiles",NICKELODEONHD
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=452&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/baby_tv.jpg" group-title="Infantiles",BABY TV
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=383&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/panda.jpg" group-title="Infantiles",CANAL PANDA
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=401&t=live&f=ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-logo="" group-title="INFANTIL",Disney+
+http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=26214&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
 
 
 ----Canales  Documentales----------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/caza-y-pesca.jpg" group-title="Documentales",CAZAyPESCA HD
-http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=402&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/nat_geo_wild_44x36.jpg" group-title="Documentales",NG WILD HD
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=371&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/discoverymax.jpg" group-title="Documentales",DISCOVERY
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=408&t=live&f=ts
 
 
 ----Canales Musica-----
-#EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="https://taroca.es/images/canales/mtvespana.jpg" group-title="Música",MTV ESPANA
-http://u3m7WSB9Cc1OqDL0fl.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=447&t=live&f=ts
 
 
