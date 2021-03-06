@@ -3,25 +3,14 @@
 #EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg", LA 1 Prueba de actualización
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 
-#EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",LA 2
-#EXTVLCOPT:http-user-agent=stream
-http://c8520ffcfb0c5b33fe4c369d488dc0e6.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=151918&s=CT4YG6ZR75&id=421&h=3f7c668ebd43752ed6be8bcc29038bae3d2ac572&n=1615060743&i=82.159.89.240
 
-#EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",ANTENA 3
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/2f3d2f6df22be9e.m3u8
-
-#EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/lasexta.jpg",LA SEXTA
-#EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/58cb64ae465e728.m3u8
 
 #EXTINF:-1 group-title="General" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg" group-title="General",#0 HD
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=378&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="#0 FULL HD" tvg-logo="" group-title="General", #0 
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=378&t=live&f=ts
+http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=378&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="General",24 HORAS
@@ -31,8 +20,19 @@ http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=6061
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="DEPORTE",M. LaLiga
 http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=435&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
 
-#EXTINF:-1 tvg-id="" tvg-name="#VAMOS" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/vamos.jpg" group-title="Deporte",#VAMOS 
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/vamos.jpg" group-title="DEPORTE",#VAMOS 
 http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=26068&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Movistar-deportes1.jpg" group-title="DEPORTE" , M Deportes
+http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=359&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
+
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Movistar-deportes1.jpg" group-title="DEPORTE" , M Deportes HEVC
+http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=26066&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
+
+
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1 FULL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Movistar-motogp.jpg" group-title="Deportes,M.FORMULA1 FULL HD
+http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=365&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
 
 
 
