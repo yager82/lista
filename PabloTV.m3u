@@ -2,11 +2,11 @@
 ------Canales Generales---------------
 #EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg", LA 1
 #EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/9b3ba5fc9f9d579.m3u8
+http://c8520ffcfb0c5b33fe4c369d488dc0e6.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=151918&s=CT4YG6ZR75&id=355&h=3f7c668ebd43752ed6be8bcc29038bae3d2ac572&n=1615060743&i=82.159.89.240
 
 #EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve2.jpg",LA 2
 #EXTVLCOPT:http-user-agent=stream
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Spain/1714d12cfaf5a5a.m3u8
+http://c8520ffcfb0c5b33fe4c369d488dc0e6.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=151918&s=CT4YG6ZR75&id=421&h=3f7c668ebd43752ed6be8bcc29038bae3d2ac572&n=1615060743&i=82.159.89.240
 
 #EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/antena3.jpg",ANTENA 3
 #EXTVLCOPT:http-user-agent=stream
@@ -100,12 +100,6 @@ http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=6061
 
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEON 4 (SOLO EVENTOS)" tvg-logo="" group-title="Deporte",M.LCAMPEON 4 (SOLO EVENTOS)
 http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=441&t=live&f=ts
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Deporte",DAZN 1 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26299&t=live&f=ts
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/1200px-DAZN_LogoInBox_black.svg.png" group-title="Deporte",DAZN 2 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-http://u3m2T6MQybGgs5utqv.c2e3n4te5r6.me/live/cra4.php?z=997&u=Aixu08EZkS&s=606198271291&id=26300&t=live&f=ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="#VAMOS Si " tvg-logo="" group-title="Deporte",#VAMOS FULL HD(si)
 http://u3mLSOtb8il24wPQpo.c2e3n4te5r6.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=3819&h=1591805b65fee65dac3d045c13b3f0356faaf2a1&n=1610655127
