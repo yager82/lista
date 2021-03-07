@@ -32,9 +32,8 @@ http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=
 #EXTINF:-1 tvg-id="" tvg-name="M Formula 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Movistar-deportes1.jpg" group-title="DEPORTE" , M Formula 1
 http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=365&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
 
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga Dervi" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-laliga.png" group-title="DEPORTE",M. LaLiga Dervi
+http://31.220.41.86:8081/live/es-movistarlaliga.stream/playlist.m3u8
 ----Canales de Series--------------------------
 
 
