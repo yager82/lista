@@ -1,47 +1,13 @@
-#EXTM3U url="http://stream.nmbs.top/lists/Spain.m3u8"
-------Canales Generales---------------
-#EXTINF:-1 group-title="General",tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/tve1.jpg", LA 1 Prueba de actualización
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-
-
-
-#EXTINF:-1 group-title="General" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/480px-CEXMA_new.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="https://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/canal-0.jpg" group-title="General",#0 HD
-http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=378&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
-
-
-
-
-----Canales de Deportes------------------------
+#EXTM3U
+#EXTINF:-1,ES |LIGA DE CAMPEONES FHD
+http://www.creedtv.xyz:2052/Mono/Mono/192473
+#EXTINF:-1,ES | M. LA LIGA DE CAMPEONES ( SOLO EVENTOS)
+http://www.creedtv.xyz:2052/Mono/Mono/192474
 #EXTINF:-1,ES | Movistar Liga De Campeones HD
 http://www.creedtv.xyz:2052/Mono/Mono/192472
-
-
-----Canales de Series--------------------------
-
-
-
-
-
-
-
-
-
-----Canales de Cine----------------------------
-EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE 1 HD" tvg-logo="" group-title="CINE",MOVISTAR CINE 1 HD
-http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=26088&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
-----Canales  Infantiles------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="Disney+" tvg-logo="" group-title="INFANTIL",Disney+
-http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=75624&s=CT4FMLZYCM&id=26214&h=d8e050c97d14828aa7b29b8d134dc53430c77ba0&n=1615066259&i=82.159.89.240
-
-
-----Canales  Documentales----------------------
-
-
-
-----Canales Musica-----
-
-
+#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES | SD
+http://www.creedtv.xyz:2052/Mono/Mono/22588
+#EXTINF:-1,ES | Movistar Liga De Campeones HD
+http://www.creedtv.xyz:2052/Mono/Mono/192472
+#EXTINF:-1,ES |LIGA DE CAMPEONES FHD
+http://www.creedtv.xyz:2052/Mono/Mono/192473
