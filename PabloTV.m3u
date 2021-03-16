@@ -15,10 +15,8 @@ http://2fbcffff00727b16e42500ace91d1bb0.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=
 
 
 ----Canales de Deportes------------------------
-
-#EXTINF:-1 tvg-id="" tvg-name="Liga de campeones" tvg-logo="" group-title="DEPORTE", Liga de Campeones 
-EXTVLCOPT:http-user-agent=stream
-http://www.creedtv.xyz:2052/Mono/Mono/22588
+#EXTINF:-1,ES | Movistar Liga De Campeones HD
+http://www.creedtv.xyz:2052/Mono/Mono/192472
 
 
 ----Canales de Series--------------------------
