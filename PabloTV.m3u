@@ -1,48 +1,38 @@
 #EXTM3U
-#EXTINF:-1,ES |LIGA DE CAMPEONES FHD
-http://www.creedtv.xyz:2052/Mono/Mono/192473
-#EXTINF:-1,ES | M. LA LIGA DE CAMPEONES ( SOLO EVENTOS)
-http://www.creedtv.xyz:2052/Mono/Mono/192474
-#EXTINF:-1,ES | Movistar Liga De Campeones HD
-http://www.creedtv.xyz:2052/Mono/Mono/192472
-#EXTINF:-1,ES: MOVISTAR LIGA DE CAMPEONES | SD
-http://www.creedtv.xyz:2052/Mono/Mono/22588
-#EXTINF:-1,ES | Movistar Liga De Campeones HD
-http://www.creedtv.xyz:2052/Mono/Mono/192472
-#EXTINF:-1,ES |LIGA DE CAMPEONES FHD
-http://www.creedtv.xyz:2052/Mono/Mono/192473
 
-#EXTINF:-1,ES | Movistar La Liga
-http://www.creedtv.xyz:2052/Mono/Mono/192441
+#EXTINF:-1,ES: MOVISTAR 0#
+http://iptvfhd.com:8000/50068864328900/73062005645007/30116
 
-#EXTINF:-1,ES |  LaLigaTV HD
-http://31.42.187.36:25461/live/7kqRMP2mzI/dhzXrVsVl5/149.m3u8
+#EXTINF:-1,ES: MOVISTAR VAMOS
+http://iptvfhd.com:8000/50068864328900/73062005645007/30108
 
+#EXTINF:-1,ES: MOVISTAR F1
+http://iptvfhd.com:8000/50068864328900/73062005645007/30112
 
-#EXTINF:-1,ES | LALIGA BAR  FHD
-http://www.creedtv.xyz:2052/Mono/Mono/192449
+#EXTINF:-1,ES: MOVISTAR DEPORTES
+http://iptvfhd.com:8000/50068864328900/73062005645007/30114
+#EXTINF:-1,ES: MOVISTAR GOLF
+http://iptvfhd.com:8000/50068864328900/73062005645007/30111
+#EXTINF:-1,ES: GOL TV
+http://iptvfhd.com:8000/50068864328900/73062005645007/30144
+#EXTINF:-1,ES: EUROSPORT 1
+http://iptvfhd.com:8000/50068864328900/73062005645007/30153
 
-#EXTINF:-1,ES | M.FORMULA1 HD CONEXION BAJA
-http://www.creedtv.xyz:2052/Mono/Mono/192446
+#EXTINF:-1,ES: M.LALIGA
+http://iptvfhd.com:8000/50068864328900/73062005645007/30212
+#EXTINF:-1,M.LALIGA
+http://iptvfhd.com:8000/50068864328900/73062005645007/103244
+#EXTINF:-1,M.LALIGA TV BAR HD
+http://iptvfhd.com:8000/50068864328900/73062005645007/103306
 
-#EXTINF:-1,ES | MOVISTAR F1 FHD
-http://www.creedtv.xyz:2052/Mono/Mono/192444
+#EXTINF:-1,M.LIGA DE CAMPEONES HD
+http://iptvfhd.com:8000/50068864328900/73062005645007/103315
 
-#EXTINF:-1,ES | Vamos FHD
-http://www.creedtv.xyz:2052/Mono/Mono/192455
+#EXTINF:-1,ES: LIGA CAMPEONES
+http://iptvfhd.com:8000/50068864328900/73062005645007/30130
 
-#EXTINF:-1,*ES Movistar Golf
-http://www.creedtv.xyz:2052/Mono/Mono/192457
+#EXTINF:-1,ES: DAZN HD
+http://iptvfhd.com:8000/50068864328900/73062005645007/48681
 
-
-#EXTINF:-1,ES | Movistar Deportes HD
-http://www.creedtv.xyz:2052/Mono/Mono/192464
-
-#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="SPANISH",CAZAyPESCA HD
-http://c8520ffcfb0c5b33fe4c369d488dc0e6.c9e8n7t6e5ra4.me/live/cra4.php?
-
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="SPANISH",M. LaLiga HD
-http://31.220.41.88:8081/live/es-movistar-futbol.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="M. LaLiga Prueba" tvg-name="LALIGA SD" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="02 - FÚTBOL ESPAÑA",LALIGA SD
-http://lloc1.site:8080/Yager82/FWHDyB3Q9h/17493
+#EXTINF:-1,ES: CAZA Y PESCA
+http://iptvfhd.com:8000/50068864328900/73062005645007/30178
