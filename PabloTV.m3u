@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-id="" tvg-name="M  LaLiga" tvg-logo="" group-title="SPANISH",M  LaLiga
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26247&h=fe8f39fefcb122afad85347f3450b7dbb78e9f41&n=1616338468&i=82.159.89.240
 
-#EXTINF:-1 tvg-id="" tvg-name=" M.FORMULA1 4K " tvg-logo="" group-title="SPANISH", M.FORMULA1 4K 
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26271&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-
 #EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="SPANISH",#0 HD
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=378&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
 
@@ -13,8 +10,7 @@ http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=
 
 #EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="SPANISH",TOROS HD
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=376&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="TOROS FULL HD" tvg-logo="" group-title="SPANISH",TOROS FULL HD
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3816&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
+
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD" tvg-logo="" group-title="SPANISH",M. LaLiga HD
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26046&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga HD+" tvg-logo="" group-title="SPANISH",M. LaLiga HD+
@@ -31,29 +27,17 @@ http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26247&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="" group-title="SPANISH",M. LaLiga
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=435&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="Bein Laliga/ beIN Sport" tvg-logo="" group-title="SPANISH",Bein Laliga/ beIN Sport
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=386&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2K" tvg-logo="" group-title="SPANISH",M. LaLiga 2K
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26141&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 4K" tvg-logo="" group-title="SPANISH",M. LaLiga 4K
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26142&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
 #EXTINF:-1 tvg-id="" tvg-name="M. LaLiga FULL HD" tvg-logo="" group-title="SPANISH",M. LaLiga FULL HD
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3849&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
 
 EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD+" tvg-logo="" group-title="SPANISH",M.LCAMPEONES HD+
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26315&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES 1080P" tvg-logo="" group-title="SPANISH",M.LCAMPEONES 1080P
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26316&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES SD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES SD
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26317&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
+
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES" tvg-logo="" group-title="SPANISH",M.LCAMPEONES
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26318&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="M.Lcampeones 4K" tvg-logo="" group-title="SPANISH",M.Lcampeones 4K
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26140&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HEVC" tvg-logo="" group-title="SPANISH",M.LCAMPEONES HEVC
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26067&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES FULL HD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES FULL HD
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26078&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
+
 #EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD" tvg-logo="" group-title="SPANISH",#VAMOS HD
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=379&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
 #EXTINF:-1 tvg-id="" tvg-name="#VAMOS FULL HD" tvg-logo="" group-title="SPANISH",#VAMOS FULL HD
@@ -62,8 +46,7 @@ http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=359&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
 #EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES FULL HD" tvg-logo="" group-title="SPANISH",M. DEPORTES FULL HD
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3800&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP FULL HD" tvg-logo="" group-title="SPANISH",M.MOTOGP FULL HD
-http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3807&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
+
 #EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 HD" tvg-logo="" group-title="SPANISH",M.FORMULA 1 HD
 http://2a47e716e00138bce80b72ae42b8aa95.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=365&h=543d472a36a6ebadf8370464bc5251e50542fe90&n=1616832275&i=82.159.89.240
 #EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1 FULL HD" tvg-logo="" group-title="SPANISH",M.FORMULA1 FULL HD
