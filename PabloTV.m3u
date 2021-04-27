@@ -1,14 +1,62 @@
 #EXTM3U
-##EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="SPANISH",CASTILLA LA MANCHA
-http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26059&h=3ebe8aa268e9db7fce1af48bd1c34fb3caf00c22&n=1619111193&i=82.159.89.240
 
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="SPANISH",CASTILLA LA MANCHA
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26059&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+
+#EXTINF:-1 tvg-id="" tvg-name="TOROS 4K" tvg-logo="" group-title="SPANISH",TOROS 4K
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26276&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+
+#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="" group-title="SPANISH",TOROS HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=376&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
 
 #EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="" group-title="SPANISH",#0 HD
 http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=378&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
 #EXTINF:-1 tvg-id="" tvg-name="#0 FULL HD" tvg-logo="" group-title="SPANISH",#0 FULL HD
 http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3818&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
 
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="" group-title="SPANISH",LaLiga HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26246&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="" group-title="SPANISH",LALIGATV BAR HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=357&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+
+#EXTINF:-1 tvg-id="" tvg-name="M  LaLiga" tvg-logo="" group-title="SPANISH",M  LaLiga
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26247&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga" tvg-logo="" group-title="SPANISH",M. LaLiga
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?
+
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?
+
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES" tvg-logo="" group-title="SPANISH",M.LCAMPEONES
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?
+
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS HD" tvg-logo="" group-title="SPANISH",#VAMOS HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=379&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="#VAMOS FULL HD" tvg-logo="" group-title="SPANISH",#VAMOS FULL HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3819&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTESHD" tvg-logo="" group-title="SPANISH",M. DEPORTESHD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=359&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 HD" tvg-logo="" group-title="SPANISH",M.FORMULA 1 HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=365&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1 FULL HD" tvg-logo="" group-title="SPANISH",M.FORMULA1 FULL HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3806&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" group-title="SPANISH",M. GOLF HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=361&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF FULL HD" tvg-logo="" group-title="SPANISH",M. GOLF FULL HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3802&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="SPANISH",CAZAyPESCA HD
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=402&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="SPANISH",DISCOVERY
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=408&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="SPANISH",CANAL COCINA
+http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=397&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
 
 
