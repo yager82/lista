@@ -14,8 +14,8 @@ http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=
 
 #EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="" group-title="SPANISH",LaLiga HD
 http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26246&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
-#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="" group-title="SPANISH",LALIGATV BAR HD
-http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=357&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="http://134.255.234.197/logos/laligatvbar.png" group-title="SPANISH",LALIGATV BAR HD
+http://carre.flysat.live:80/152007132361667/152062124020877/79308
 
 #EXTINF:-1 tvg-id="" tvg-name="M  LaLiga" tvg-logo="" group-title="SPANISH",M  LaLiga
 http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26247&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
@@ -44,15 +44,15 @@ http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=
 #EXTINF:-1 tvg-id="" tvg-name="M.FORMULA1 FULL HD" tvg-logo="" group-title="SPANISH",M.FORMULA1 FULL HD
 http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3806&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
 #EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="" group-title="SPANISH",M. GOLF HD
-http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=361&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+http://carre.flysat.live:80/152007132361667/152062124020877/178480
 #EXTINF:-1 tvg-id="" tvg-name="M. GOLF FULL HD" tvg-logo="" group-title="SPANISH",M. GOLF FULL HD
 http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=3802&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
 
-#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="SPANISH",CAZAyPESCA HD
-http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=402&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="SPANISH",CAZAyPESCA HD
+http://carre.flysat.live:80/152007132361667/152062124020877/79262
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="" group-title="SPANISH",DISCOVERY
-http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=408&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="SPANISH",DISCOVERY
+http://carre.flysat.live:80/152007132361667/152062124020877/79260
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="" group-title="SPANISH",CANAL COCINA
 http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=397&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
