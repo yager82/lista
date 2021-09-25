@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="" group-title="SPANISH",CASTILLA LA MANCHA
-http://507ffc755ad08595f8e853a373a60ca5.c9e8n7t6e5ra4.me/live/cra4.php?z=997&ui=162225&s=CT4YGB84KQ&id=26059&h=f7e2ae5fd79b41cd6e3bb1561f3af5d5854ea080&n=1619552174&i=82.159.89.240
+#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="https://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png" group-title="SPANISH",CASTILLA LA MANCHA
+http://x5sb.top:8000/da669/926fdr5g6/371
 
 #EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="http://134.255.234.197/logos/torostv.png" group-title="SPANISH",TOROS HD
 http://carre.flysat.live:80/152007132361667/152062124020877/79298
@@ -12,15 +12,15 @@ http://carre.flysat.live:80/152007132361667/152062124020877/79298
 #EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="http://134.255.234.197/logos/cero.png" group-title="SPANISH",#0 HD
 http://carre.flysat.live:80/152007132361667/152062124020877/79348
 
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="" group-title="SPANISH",LaLiga HD
-
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="SPANISH",LaLiga HD
+http://x5sb.top:8000/da669/926fdr5g6/804
 #EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="http://134.255.234.197/logos/laligatvbar.png" group-title="SPANISH",LALIGATV BAR HD
 http://carre.flysat.live:80/152007132361667/152062124020877/79308
 
-#EXTINF:-1 tvg-id="" tvg-name="M  LaLiga Cuando hay futbol " tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="SPANISH",M  LaLiga
+#EXTINF:-1 tvg-id="" tvg-name="M  LaLiga Cuando hay futbol " tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="SPANISH",Liga1 cuando
 http://carre.flysat.live:80/152007132361667/152062124020877/79291
 
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 cuando hay futbol" tvg-logo="http://134.255.234.197/logos/movistarlaliga2.png" group-title="SPANISH",M. LaLiga2
+#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 cuando hay futbol" tvg-logo="http://134.255.234.197/logos/movistarlaliga2.png" group-title="SPANISH",Liga2 cuando
 http://carre.flysat.live:80/152007132361667/152062124020877/79290
 
 
@@ -37,12 +37,12 @@ http://carre.flysat.live:80/152007132361667/152062124020877/79342
 
 
 #EXTINF:-1 tvg-id="" tvg-name="M. DEPORTESHD" tvg-logo="http://134.255.234.197/logos/movistardeportes.png" group-title="SPANISH",M. DEPORTESHD
-http://carre.flysat.live:80/152007132361667/152062124020877/79278
+http://x5sb.top:8000/da669/926fdr5g6/31
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HEVC" tvg-logo="http://134.255.234.197/logos/movistarligadecampeones.png" group-title="SPANISH",M.LCAMPEONES HEVC
-http://carre.flysat.live:80/152007132361667/152062124020877/79309
+http://x5sb.top:8000/da669/926fdr5g6/708
 
 #EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1 HD" tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="SPANISH",M.FORMULA 1 HD
 http://carre.flysat.live:80/152007132361667/152062124020877/79297
@@ -59,7 +59,7 @@ http://carre.flysat.live:80/152007132361667/152062124020877/79295
 #EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="SPANISH",CAZAyPESCA HD
 http://carre.flysat.live:80/152007132361667/152062124020877/79262
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="SPANISH",DISCOVERY
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/discovery_logo.png" group-title="SPANISH",DISCOVERY
 http://carre.flysat.live:80/152007132361667/152062124020877/79260
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="https://i5.satexpat.com/cha/es/canalCocina_90x27.gif" group-title="SPANISH",CANAL COCINA
