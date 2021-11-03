@@ -71,3 +71,19 @@ http://carre.flysat.live:80/152007132361667/152062124020877/79259
 #EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="hhttps://i5.satexpat.com/cha/es/canalPlusNatGeoChannel_95x37.gif" group-title="SPANISH",National Geographic.
 http://x5sb.top:8000/da669/926fdr5g6/53
 
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-name="MOVISTAR CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="EVENTOS DEPORTIVOS",MOVISTAR CAMPEONES HD
+http://x5sb.top:8000/da669/926fdr5g6/708
+#EXTINF:-1 tvg-id="M.LCAMPEON1" tvg-name="M.LCAMPEON 1 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 1 hd
+http://x5sb.top:8000/da669/926fdr5g6/128
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="M.LCAMPEON 2 hd" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 2 hd
+http://x5sb.top:8000/da669/926fdr5g6/130
+#EXTINF:-1 tvg-id="M.LCAMPEON3" tvg-name="M.LCAMPEON 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 3
+http://x5sb.top:8000/da669/926fdr5g6/68
+#EXTINF:-1 tvg-id="M.LCAMPEON4" tvg-name="M.LCAMPEON 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 4
+http://x5sb.top:8000/da669/926fdr5g6/1397
+#EXTINF:-1 tvg-id="M.LCAMPEON5" tvg-name="M.LCAMPEON 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 5
+http://x5sb.top:8000/da669/926fdr5g6/69
+#EXTINF:-1 tvg-id="M.LCAMPEON6" tvg-name="M.LCAMPEON 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 6
+http://x5sb.top:8000/da669/926fdr5g6/70
+#EXTINF:-1 tvg-id="M.LCAMPEON7" tvg-name="M.LCAMPEON 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" group-title="EVENTOS DEPORTIVOS",M.LCAMPEON 7
+http://x5sb.top:8000/da669/926fdr5g6/71
