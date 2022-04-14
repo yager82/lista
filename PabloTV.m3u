@@ -22,6 +22,9 @@ http://618683256924165393.niceyears.xyz:80/VK8647LF/333426/165393
 #EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR SD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="SPANISH",ES: LALIGA TV BAR SD
 http://618683256924195002.niceyears.xyz:80/VK8647LF/333426/195002
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="SPANISH",ES: LALIGA TV BAR FHD
+http://618683256924268042.niceyears.xyz:80/VK8647LF/333426/268042
+
 #EXTINF:-1 tvg-id="" tvg-name="M  LaLiga Cuando hay futbol " tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="SPANISH",Liga1 cuando
 http://x5sb.top:8000/da669/926fdr5g6/44
 
@@ -47,6 +50,9 @@ http://618683256924165460.niceyears.xyz:80/VK8647LF/333426/165460
 
 #EXTINF:-1 tvg-id="#VAMOS" tvg-name="ES: #VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="SPANISH",ES: #VAMOS SD
 http://618683256924267795.niceyears.xyz:80/VK8647LF/333426/267795
+
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aab581550279e56c78f6907c2c41197f.png" group-title="SPANISH",ES: #VAMOS HD
+http://618683256924267794.niceyears.xyz:80/VK8647LF/333426/267794
 
 #EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HEVC" tvg-logo="http://134.255.234.197/logos/movistarligadecampeones.png" group-title="SPANISH",M.LCAMPEONES HEVC
 http://x5sb.top:8000/da669/926fdr5g6/708
