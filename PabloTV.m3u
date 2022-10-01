@@ -6,16 +6,35 @@
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CASTILLA LA MANCHA" tvg-logo="https://www.cmmedia.es/wp-content/themes/canal_rtvcm/images/logo.png" group-title="SPANISH",CASTILLA LA MANCHA
-http://x5sb.top:8000/da669/926fdr5g6/371
 
-#EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="http://134.255.234.197/logos/torostv.png" group-title="SPANISH",TOROS HD
-http://x5sb.top:8000/da669/926fdr5g6/65
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-es.png" group-title="",ES: M+ LALIGA
 http://flyloop.top:8080/live/101664654092718012/5411664654092718/5758.ts
 
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="http://www.tbs-tv.com:8080/images/nwmbi3XU54kch4GiaQp8f2JBgILNXeLX.png" group-title="ES 05 FORMULA",ES: MOVISTAR FORMULA 1 FHD
-http://618683256924165418.niceyears.xyz:80/VK8647LF/333426/165418
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="http://www.tbs-tv.com:8080/images/nwmbi3XU54kch4GiaQp8f2JBgILNXeLX.png" group-title="ES 05 FORMULA",ES: MOVISTAR FORMULA 1 HD
-http://618683256924165419.niceyears.xyz:80/VK8647LF/333426/165419
+#EXTINF:-1 tvg-id="" tvg-name="ES: Laliga SmartBankTV" tvg-logo="https://docdog.top/Logotv/countries/spain/LaLigaSmartbankTV.png" group-title="",ES: Laliga SmartBankTV
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/25128.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 1" tvg-logo="https://docdog.top/Logotv/countries/spain/DAZNLaLigaWhite.png" group-title="",ES: DAZN LALIGA 1
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/25125.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN LALIGA 2" tvg-logo="https://asiagrandiptv.us/logo/DAZNLALIGA2.png" group-title="",ES: DAZN LALIGA 2
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/25127.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ DEPORTES" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-deportes-es.png" group-title="",ES: M+ DEPORTES
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/5643.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGATV BAR" tvg-logo="https://docdog.top/Logotv/countries/spain/LaLigaTVBAR.png" group-title="",ES: M+ LALIGATV BAR
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/5661.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ F1" tvg-logo="https://docdog.top/Logotv/countries//f1tv.png" group-title="",ES: M+ F1
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/5647.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #0" tvg-logo="https://docdog.top/Logotv/countries/spain/countrypic.png" group-title="",ES: M+ #0
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/5546.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: CAZAYPESCA FHD" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/caza-y-pesca-es.png" group-title="",ES: CAZAYPESCA FHD
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/5578.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY MAX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/discovery-channel-es.png" group-title="",ES: DISCOVERY MAX
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/5594.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS" tvg-logo="https://docdog.top/Logotv/countries//vamos.png" group-title="",ES: M+ #VAMOS
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/5630.ts
