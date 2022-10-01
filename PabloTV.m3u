@@ -41,3 +41,24 @@ http://flyloop.top:8080/live/101664654092718012/5411664654092718/5594.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ #VAMOS" tvg-logo="https://docdog.top/Logotv/countries//vamos.png" group-title="",ES: M+ #VAMOS
 http://flyloop.top:8080/live/101664654092718012/5411664654092718/5630.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR VAMOS SD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title=""
+http://ottmo.co:8000/179030140462567/505771568782251/236765
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  VAMOS FHD" tvg-logo="http://xtitan.xyz:2082/images/830ccfcf4681ad5018bee8324d8ff83d.png" group-title="",MOVISTAR  VAMOS FHD
+http://ottmo.co:8000/179030140462567/505771568782251/236763
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES FHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="",MOVISTAR DEPORTES FHD
+http://ottmo.co:8000/179030140462567/505771568782251/236759
+
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA SD" tvg-logo="http://xtitan.xyz:2082/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="",MOVISTAR  LA LIGA SD
+http://ottmo.co:8000/179030140462567/505771568782251/236740
+
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR SD ᴿ" tvg-logo="http://xtitan.xyz:2082/images/8b7a7ca287526e0ac3f43876e67ee772.png" group-title="",LALIGATV BAR SD ᴿ
+http://ottmo.co:8000/179030140462567/505771568782251/236735
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR  F1 ᴿ" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="",DAZN MOVISTAR  F1 ᴿ
+http://ottmo.co:8000/179030140462567/505771568782251/236696
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR F1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="",DAZN MOVISTAR F1 FHD
+http://ottmo.co:8000/179030140462567/505771568782251/236694
