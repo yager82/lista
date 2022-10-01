@@ -10,6 +10,9 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-es.png" group-title="",ES: M+ LALIGA
 http://flyloop.top:8080/live/101664654092718012/5411664654092718/5758.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA 123" tvg-logo="https://docdog.top/Logotv/countries//liga123.png" group-title="",ES: LIGA 123
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/5627.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="ES: Laliga SmartBankTV" tvg-logo="https://docdog.top/Logotv/countries/spain/LaLigaSmartbankTV.png" group-title="",ES: Laliga SmartBankTV
 http://flyloop.top:8080/live/101664654092718012/5411664654092718/25128.ts
 
