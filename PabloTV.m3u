@@ -12,61 +12,8 @@ http://x5sb.top:8000/da669/926fdr5g6/371
 #EXTINF:-1 tvg-id="" tvg-name="TOROS HD" tvg-logo="http://134.255.234.197/logos/torostv.png" group-title="SPANISH",TOROS HD
 http://x5sb.top:8000/da669/926fdr5g6/65
 
-
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="SPANISH",LaLiga HD
-http://x5sb.top:8000/da669/926fdr5g6/804
-
-#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="ES: M LALIGA SD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="SPANISH",ES: M LALIGA SD
-http://618683256924165393.niceyears.xyz:80/VK8647LF/333426/165393
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR SD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="SPANISH",ES: LALIGA TV BAR SD
-http://618683256924195002.niceyears.xyz:80/VK8647LF/333426/195002
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA TV BAR FHD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="SPANISH",ES: LALIGA TV BAR FHD
-http://618683256924268042.niceyears.xyz:80/VK8647LF/333426/268042
-
-#EXTINF:-1 tvg-id="" tvg-name="M  LaLiga Cuando hay futbol " tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="SPANISH",Liga1 cuando
-http://x5sb.top:8000/da669/926fdr5g6/44
-
-#EXTINF:-1 tvg-id="" tvg-name="M. LaLiga 2 cuando hay futbol" tvg-logo="http://134.255.234.197/logos/movistarlaliga2.png" group-title="SPANISH",Liga2 cuando
-http://x5sb.top:8000/da669/926fdr5g6/1186
-
-
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES SD" tvg-logo="" group-title="SPANISH",M.LCAMPEONES SD
-
-
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES" tvg-logo="" group-title="SPANISH",M.LCAMPEONES
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="SPANISH",ES: LIGA DE CAMPEONES SD
-http://618683256924165359.niceyears.xyz:80/VK8647LF/333426/165359
-
-
-#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTESHD" tvg-logo="http://134.255.234.197/logos/movistardeportes.png" group-title="SPANISH",M. DEPORTESHD
-http://x5sb.top:8000/da669/926fdr5g6/31
-
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 2 HD" tvg-logo="" group-title="SPANISH",ES: MOVISTAR DEPORTES 2 HD
-http://618683256924165460.niceyears.xyz:80/VK8647LF/333426/165460
-
-
-#EXTINF:-1 tvg-id="#VAMOS" tvg-name="ES: #VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="SPANISH",ES: #VAMOS SD
-http://618683256924267795.niceyears.xyz:80/VK8647LF/333426/267795
-
-#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="ES: #VAMOS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aab581550279e56c78f6907c2c41197f.png" group-title="SPANISH",ES: #VAMOS HD
-http://618683256924267794.niceyears.xyz:80/VK8647LF/333426/267794
-
-#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HEVC" tvg-logo="http://134.255.234.197/logos/movistarligadecampeones.png" group-title="SPANISH",M.LCAMPEONES HEVC
-http://x5sb.top:8000/da669/926fdr5g6/708
-
-#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="ES: MOVISTAR GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="SPANISH",ES: MOVISTAR GOLF SD
-http://618683256924268096.niceyears.xyz:80/VK8647LF/333426/268096
-
-#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: CANAL HISTORIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="SPANISH",ES: CANAL HISTORIA SD
-http://618683256924267885.niceyears.xyz:80/VK8647LF/333426/267885
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments/discovery_logo.png" group-title="SPANISH",DISCOVERY
-http://x5sb.top:8000/da669/926fdr5g6/93
-
-#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name="ES: CAZA Y PESCA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CAZPES" group-title="SPANISH",ES: CAZA Y PESCA SD
-http://618683256924267893.niceyears.xyz:80/VK8647LF/333426/267893
+#EXTINF:-1 tvg-id="" tvg-name="ES: M+ LALIGA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/spain/movistar-laliga-es.png" group-title="SPAIN SPORT",ES: M+ LALIGA
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/5758.ts
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: MOVISTAR FORMULA 1 FHD" tvg-logo="http://www.tbs-tv.com:8080/images/nwmbi3XU54kch4GiaQp8f2JBgILNXeLX.png" group-title="ES 05 FORMULA",ES: MOVISTAR FORMULA 1 FHD
 http://618683256924165418.niceyears.xyz:80/VK8647LF/333426/165418
