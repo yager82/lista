@@ -62,3 +62,12 @@ http://ottmo.co:8000/179030140462567/505771568782251/236696
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN MOVISTAR F1 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="",DAZN MOVISTAR F1 FHD
 http://ottmo.co:8000/179030140462567/505771568782251/236694
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol Mundial 1" tvg-logo="https://docdog.top/Logotv/countries/spain/GolMundial.png" group-title="",ES: Gol Mundial 1
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/40862.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Gol Mundial 2" tvg-logo="https://docdog.top/Logotv/countries/spain/GolMundial.png" group-title="",ES: Gol Mundial 2
+http://flyloop.top:8080/live/101664654092718012/5411664654092718/49555.ts
