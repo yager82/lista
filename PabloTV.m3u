@@ -3,87 +3,63 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Extremadura
+#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=" LALIGATV BAR 4K" tvg-logo="" group-title="SPAIN", LALIGATV BAR 4K
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26269&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name=" #VAMOS BAR 4K" tvg-logo="" group-title="SPAIN", #VAMOS BAR 4K
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26270&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
+EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga HD" tvg-logo="" group-title="",DAZN LaLiga HD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27160&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD" tvg-logo="" group-title="SPAIN",DAZN LaLigaHD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27160&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD+" tvg-logo="" group-title="SPAIN",DAZN LaLigaHD+
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27173&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA SD" tvg-logo="" group-title="SPAIN",DAZN LALIGA SD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27170&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga" tvg-logo="" group-title="SPAIN",DAZN LaLiga
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27174&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaFHD" tvg-logo="" group-title="SPAIN",DAZN LaLigaFHD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27175&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLigaHD FULL HD" tvg-logo="" group-title="SPAIN",DAZN LaLigaHD FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga SD" tvg-logo="" group-title="",DAZN LaLiga SD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27170&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
 
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD" tvg-logo="" group-title="SPAIN",M+ LaLiga HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26046&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga HD+" tvg-logo="" group-title="SPAIN",M+ LaLiga HD+
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26248&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga HD" tvg-logo="" group-title="SPAIN",LaLiga HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26246&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="" group-title="SPAIN",LALIGATV BAR HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=357&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga FULL HD" tvg-logo="" group-title="SPAIN",M+ LaLiga FULL HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=3849&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBankHD" tvg-logo="" group-title="SPAIN",LigaSmartBankHD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27164&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBankHD FULL HD" tvg-logo="" group-title="SPAIN",LigaSmartBankHD FULL HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27166&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA SMARTBANK SD" tvg-logo="" group-title="SPAIN",LALIGA SMARTBANK SD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27171&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 2" tvg-logo="" group-title="SPAIN",Liga SmartBank 2
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27194&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 2 FULL HD" tvg-logo="" group-title="SPAIN",Liga SmartBank 2 FULL HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27196&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 3" tvg-logo="" group-title="SPAIN",Liga SmartBank 3
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27195&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 3 FULL HD" tvg-logo="" group-title="SPAIN",Liga SmartBank 3 FULL HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27197&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 HD" tvg-logo="" group-title="SPAIN",M+ LaLiga 2 HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26048&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 FHD" tvg-logo="" group-title="SPAIN",M+ LaLiga 2 FHD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26045&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 HD" tvg-logo="" group-title="SPAIN",M+ LaLiga 3 HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=24927&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 3 FHD" tvg-logo="" group-title="SPAIN",M+ LaLiga 3 FHD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26044&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 2 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 2 (SOLO EVENTOS)
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=388&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 4 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 4 (SOLO EVENTOS)
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=390&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 5  (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 5  (SOLO EVENTOS)
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=24926&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 6 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 6 (SOLO EVENTOS)
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=24925&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 7 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 7 (SOLO EVENTOS)
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=393&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 8 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 8 (SOLO EVENTOS)
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=394&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 9 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 9 (SOLO EVENTOS)
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=24924&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LaLiga 10 (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LaLiga 10 (SOLO EVENTOS)
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=24928&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=445&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD+" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES HD+
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26315&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ Lcampeones 4K" tvg-logo="" group-title="SPAIN",M+ Lcampeones 4K
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26140&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES FULL HD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26078&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1080P" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 1080P
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26316&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES SD
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26317&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26318&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
-#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 2 HD (SOLO EVENTOS)" tvg-logo="" group-title="SPAIN",M+ LCAMPEONES 2 HD (SOLO EVENTOS)
-http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=439&h=a6ecea299b59a8746f7a7e55c6fe1a5694ca0ed1&n=1673182527&i=82.158.56.100
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga" tvg-logo="" group-title="",DAZN LaLiga
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27174&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga FULL HD" tvg-logo="" group-title="",DAZN LaLiga FULL HD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27175&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTVHD" tvg-logo="" group-title="",M+ LaLigaTVHD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26046&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTVHD+" tvg-logo="" group-title="",M+ LaLigaTVHD+
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26248&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTVHD++" tvg-logo="" group-title="",M+ LaLigaTVHD++
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26246&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="" group-title="",LALIGATV BAR HD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=357&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="" group-title="",beIN SPORTS Espana
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26321&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Laliga/ beIN Sport" tvg-logo="" group-title="",Bein Laliga/ beIN Sport
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=386&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV" tvg-logo="" group-title="",M+ LaLigaTV
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=435&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV +" tvg-logo="" group-title="",M+ LaLigaTV +
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26247&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBankHD" tvg-logo="" group-title="",LigaSmartBankHD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27164&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBankHD FULL HD" tvg-logo="" group-title="",LigaSmartBankHD FULL HD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27166&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOSHD" tvg-logo="" group-title="",M+ #VAMOSHD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=379&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS FULL HD" tvg-logo="" group-title="",M+ #VAMOS FULL HD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=3819&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS BAR1 " tvg-logo="" group-title="",M+ #VAMOS BAR1 
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26268&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTESHD" tvg-logo="" group-title="",M+ DEPORTESHD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=359&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES FULL HD" tvg-logo="" group-title="",M+ DEPORTES FULL HD
+http://e01735603099a7e17c390ec5e50cdd1e.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=3800&h=cf91fa9649dc11efe3b8f2603e5b6d187702b357&n=1674301124&i=82.158.56.100
+
