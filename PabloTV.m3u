@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Castilla la Mancha" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Castilla La Mancha
+#EXTINF:-1 tvg-id="Castilla la Mancha" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="" tvg-logo="" tvg-url="" group-title="",Castilla La Mancha
 http://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/0_xs45iy5i/format/applehttp/protocol/http/uiConfId/39582391/a.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TOROS 4K" tvg-logo="" group-title="",TOROS 4K
