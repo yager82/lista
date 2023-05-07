@@ -3,8 +3,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="CanalExtremadura.es" tvg-name="Canal Extremadura" tvg-country="ES" tvg-language="" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
 
 
 
@@ -14,7 +13,8 @@ http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&
 #EXTINF:-1 tvg-id="" tvg-name="TOROS FULL HD" tvg-logo="" group-title="",TOROS FULL HD
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=3816&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
 
-
+#EXTINF:-1 tvg-id="canal.extremadura.es" tvg-name="ES074:Extremadura HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES074ExtremaduraHD.png" group-title="ES Cultura",ES074:Extremadura HD
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/29318
 
 #EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA HD" tvg-logo="" group-title="",CAZAyPESCA HD
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=402&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
@@ -53,6 +53,9 @@ http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&
 #EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV FULL HD" tvg-logo="" group-title="",M+ LaLigaTV FULL HD
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=3849&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
 
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES092:M. LaLiga HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png" group-title="",ES092:M. LaLiga HD
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/29300
+
 #EXTINF:-1 tvg-id="" tvg-name="LigaSmartBankHD" tvg-logo="" group-title="",LigaSmartBankHD
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27164&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
 
@@ -77,6 +80,25 @@ http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&
 #EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES BAR" tvg-logo="" group-title="",M+ LCAMPEONES BAR
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=27211&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
 
+#EXTINF:-1 tvg-id="canal.futbol.replay.es" tvg-name="ES085:M+ Liga de Campeones 9" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png" group-title="",ES085:M+ Liga de Campeones 9
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/29307
+#EXTINF:-1 tvg-id="m.liga.campeones.1.es" tvg-name="ES182:M+ Liga de Campeones 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES182M1.png" group-title="",ES182:M+ Liga de Campeones 1
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52425
+#EXTINF:-1 tvg-id="m.liga.campeones.2.es" tvg-name="ES183:M+ Liga de Campeones  2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png" group-title="",ES183:M+ Liga de Campeones  2
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52424
+#EXTINF:-1 tvg-id="m.liga.campeones.3.es" tvg-name="ES184:M+ Liga de Campeones 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES184M3.png" group-title="",ES184:M+ Liga de Campeones 3
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52423
+#EXTINF:-1 tvg-id="m.liga.campeones.4.es" tvg-name="ES185:M+ Liga de Campeones 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png" group-title="",ES185:M+ Liga de Campeones 4
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52422
+#EXTINF:-1 tvg-id="m.liga.campeones.5.es" tvg-name="ES186:M+ Liga de Campeones 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES186M5.png" group-title="",ES186:M+ Liga de Campeones 5
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52421
+#EXTINF:-1 tvg-id="m.liga.campeones.6.es" tvg-name="ES187:M+ Liga de Campeones 6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES187Movistar Ligade Campeones.png" group-title="",ES187:M+ Liga de Campeones 6
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52420
+#EXTINF:-1 tvg-id="m.liga.campeones.7.es" tvg-name="ES188:M+ Liga de Campeones 7" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES188MovistarLigadeCampeones 2.png" group-title="",ES188:M+ Liga de Campeones 7
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52419
+#EXTINF:-1 tvg-id="m.liga.campeones.8.es" tvg-name="ES189:M+ Liga de Campeones 8" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES189M8.png" group-title="ES Deportes",ES189:M+ Liga de Campeones 8
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52418
+
 #EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOSHD" tvg-logo="" group-title="",M+ #VAMOSHD
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=379&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
 
@@ -92,11 +114,23 @@ http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&
 #EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FULL HD" tvg-logo="" group-title="",DAZN F1 FULL HD
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26627&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
 
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES026:Movistar Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES026MFormula1.png" group-title="",ES026:Movistar Formula 1 HD
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/2578
+
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="ES191:Movistar Formula 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png" group-title="",ES191:Movistar Formula 1 FHD
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52416
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="",DAZN 1 HD
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=24923&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
 
+#EXTINF:-1 tvg-id="laliga.es" tvg-name="ES051:LaLiga TV Bar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png" group-title="",ES051:LaLiga TV Bar
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/2553
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FULL HD" tvg-logo="" group-title="",DAZN 1 FULL HD
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26623&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="movistar.f1.es" tvg-name="ES242:DAZN Formula 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES242MovistarF1.png" group-title="",ES242:DAZN Formula 1 HD
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52365
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN 1 4K" tvg-logo="" group-title="",DAZN 1 4K
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=26621&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
@@ -106,4 +140,15 @@ http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&
 
 #EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES FULL HD" tvg-logo="" group-title="",M+ DEPORTES FULL HD
 http://5ac7b00d88f66d30845ea551734a7018.dramostimes.ablatv.me/live/c6.php?z=997&ui=68416&s=CT4Y2XC7RU&id=3800&h=073e821e0913fc352623d7805810940ab8cea750&n=1678534444&i=82.158.56.100
+
+#EXTINF:-1 tvg-id="moto.gp.es" tvg-name="ES027:Movistar MotoGP" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES027MMotoGP.png" group-title="",ES027:Movistar MotoGP
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/2577
+
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES043:Fox HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES043FoxES.png" group-title="",ES043:Fox HD
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/2561
+
+#EXTINF:-1 tvg-id="calle.13.es" tvg-name="ES213:Calle 13 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES213Calle13HD.png" group-title="",ES213:Calle 13 FHD
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52394
+#EXTINF:-1 tvg-id="movistar.accion.es" tvg-name="ES214:Movistar Accion SD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES214MovistarAccion.png" group-title="",ES214:Movistar Accion SD
+http://mk04sp14.oknirvana.club:8880/12mmk070012/77424354/52393
 
