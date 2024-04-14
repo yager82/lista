@@ -2,7 +2,16 @@
 
 
 #EXTM3U
-
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/mfrml1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/165973
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218225
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/165888
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/mfrml1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/189462
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN F1 ESPAÑA 4K" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA 4K
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400241869
 
 
 #EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN LA LIGA 1 HD" tvg-logo="https://lo1.in/it/dzn.png" group-title="EU | SPAIN SPORTS",ES| DAZN LA LIGA 1 HD
@@ -24,22 +33,6 @@ http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33568
 
 EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA TV HYPERMOTION HD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA TV HYPERMOTION HD
 http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/39861
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA TV HYPERMOTION M2 HD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA TV HYPERMOTION M2 HD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/129011
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA TV HYPERMOTION M3 HD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA TV HYPERMOTION M3 HD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/4200
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA TV HYPERMOTION SD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA TV HYPERMOTION SD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/62815
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA TV HYPERMOTION M2 SD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA TV HYPERMOTION M2 SD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/62814
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA TV HYPERMOTION M3 SD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA TV HYPERMOTION M3 SD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/62813
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA TV HYPERMOTION FHD" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA TV HYPERMOTION FHD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/39860
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA TV HYPERMOTION M2 FHD" tvg-logo="https://lo1.in/sp/ligasmbam1.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA TV HYPERMOTION M2 FHD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/129010
-#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LALIGA TV HYPERMOTION M3 FHD" tvg-logo="https://lo1.in/sp/ligasmbam2.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGA TV HYPERMOTION M3 FHD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33800
 
 #EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="ES| M+ LALIGATV BAR HD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="EU | SPAIN SPORTS",ES| M+ LALIGATV BAR HD
 http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400220778
@@ -106,13 +99,104 @@ http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400220793
 http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400220792
 #EXTINF:-1 tvg-id="" tvg-name="ES| M+ DEPORTES 7 HD" tvg-logo="https://lo1.in/sp/mp.png" group-title="EU | SPAIN SPORTS",ES| M+ DEPORTES 7 HD
 http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/18404
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/mfrml1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA HD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/165973
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA SD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218225
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA FHD
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/165888
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/mfrml1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA HEVC
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/189462
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN F1 ESPAÑA 4K" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA 4K
-http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400241869
+
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦MOVISTAR CHAMPIONS LEAGUE✦●✦" tvg-logo="https://lo1.in/sp/sp.png" group-title="EU | SPAIN SPORTS",✦●✦MOVISTAR CHAMPIONS LEAGUE✦●✦
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400479669
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 HD" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 1 HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/165968
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 HD" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 2 HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/375702
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES| M+ LIGA DE CAMPEONES 3 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 3 HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400173248
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 4 HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400173249
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES| M+ LIGA DE CAMPEONES 5 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 5 HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400173250
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="ES| M+ LIGA DE CAMPEONES 6 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 6 HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400173251
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="ES| M+ LIGA DE CAMPEONES 7 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 7 HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400173252
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES| M+ LIGA DE CAMPEONES 8 HD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 8 HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400173253
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 HD" tvg-logo="https://lo1.in/sp/lgtvbar.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 9 HD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400220789
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 1 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218282
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 SD" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 2 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400230644
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES| M+ LIGA DE CAMPEONES 3 SD" tvg-logo="https://lo1.in/sp/sender.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 3 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400230643
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 SD" tvg-logo="https://lo1.in/sp/eusp9.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 4 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218278
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="ES| M+ LIGA DE CAMPEONES 5 SD" tvg-logo="https://lo1.in/sp/eusp8.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 5 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218277
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="ES| M+ LIGA DE CAMPEONES 6 SD" tvg-logo="https://lo1.in/sp/eusp7.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 6 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218276
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="ES| M+ LIGA DE CAMPEONES 7 SD" tvg-logo="https://lo1.in/sp/eusp6.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 7 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218275
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="ES| M+ LIGA DE CAMPEONES 8 SD" tvg-logo="https://lo1.in/sp/eusp5.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 8 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218274
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 SD" tvg-logo="https://lo1.in/sp/eusp4.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 9 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218273
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 10 SD" tvg-logo="https://lo1.in/sp/eusp3.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 10 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218272
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 11 SD" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 11 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/1245
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 12 SD" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 12 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/1244
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 SD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 13 SD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/18406
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 1 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/187582
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 2 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/187584
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES| M+ LIGA DE CAMPEONES 3 FHD" tvg-logo="https://lo1.in/sp/mvstlg10.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 3 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/187563
+#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 FHD" tvg-logo="https://lo1.in/sp/mvstlg9.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 4 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/187562
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 5 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 5 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400407282
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 6 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 6 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400407281
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 7 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 7 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33807
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 8 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 8 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33806
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 9 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33805
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 10 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 10 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33804
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 11 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 11 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33803
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 12 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 12 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33802
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 FHD" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 13 FHD
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33801
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LCAMPEONS 4K" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LCAMPEONS 4K
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400241868
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="ES| M+ LIGA DE CAMPEONES 1 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 1 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/189457
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="ES| M+ LIGA DE CAMPEONES 2 HEVC" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 2 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/375700
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="ES| M+ LIGA DE CAMPEONES 3 HEVC" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 3 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/62812
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="ES| M+ LIGA DE CAMPEONES 4 HEVC" tvg-logo="https://lo1.in/sp/lgcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 4 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/62811
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 5 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 5 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33546
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 6 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 6 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33545
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 7 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 7 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33544
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 8 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 8 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33543
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 9 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 9 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33542
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 10 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 10 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33541
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 11 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 11 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33540
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 12 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 12 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33539
+#EXTINF:-1 tvg-id="" tvg-name="ES| M+ LIGA DE CAMPEONES 13 HEVC" tvg-logo="https://lo1.in/sp/mvstcamp.png" group-title="EU | SPAIN SPORTS",ES| M+ LIGA DE CAMPEONES 13 HEVC
+http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/33538
