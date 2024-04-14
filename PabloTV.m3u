@@ -2,15 +2,15 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/mfrml1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA HD
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA HD" tvg-logo="https://lo1.in/sp/mfrml1.png" group-title="COCHES",ES| DAZN F1 ESPAÑA HD
 http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/165973
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA SD
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA SD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="COCHES",ES| DAZN F1 ESPAÑA SD
 http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400218225
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA FHD
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA FHD" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="COCHES",ES| DAZN F1 ESPAÑA FHD
 http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/165888
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/mfrml1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA HEVC
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="ES| DAZN F1 ESPAÑA HEVC" tvg-logo="https://lo1.in/sp/mfrml1.png" group-title="COCHES",ES| DAZN F1 ESPAÑA HEVC
 http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/189462
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN F1 ESPAÑA 4K" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="EU | SPAIN SPORTS",ES| DAZN F1 ESPAÑA 4K
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="ES| DAZN F1 ESPAÑA 4K" tvg-logo="https://lo1.in/sp/dazn1.png" group-title="COCHES",ES| DAZN F1 ESPAÑA 4K
 http://yrwzmbr.mhubery.xyz:80/7093213519/0588135126/400241869
 
 
